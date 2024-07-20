@@ -7,6 +7,9 @@
 #games{
     background: linear-gradient(to left,#C285E0,#733AE0 );
 }
+#music{
+    background: linear-gradient(to right,#DE64AD,#E08AD7);
+}
 a{
     color: blue;
 }
